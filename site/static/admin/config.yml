@@ -2,6 +2,9 @@ backend:
   name: git-gateway
   branch: main
 
+# 添加下面这一行，允许本地开发绕过身份验证
+local_backend: true
+
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
