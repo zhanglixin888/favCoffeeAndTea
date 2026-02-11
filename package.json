@@ -63,7 +63,7 @@
     "webpack-merge": "^5.8.0"
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "dependencies": {
     "@babel/preset-react": "^7.17.12",
