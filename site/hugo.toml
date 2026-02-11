@@ -1,5 +1,5 @@
 baseurl = "/"
-relativeURLs = true
+
 languageCode = "en-us"
 languageLang = "en"
 title = "POOJ"
