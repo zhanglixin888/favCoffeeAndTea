@@ -1,0 +1,23 @@
+  
+  (1)域名解析，邮箱解析管理：
+
+     域名解析：    https://dash.cloudflare.com/
+
+     用户名： zhanglixin888@gmail.com   密码 Z*******@@@
+
+
+ （2）邮箱目前是 腾讯邮箱：
+
+         
+          bd@pooj.net             15801540976  王建平   Z*********8
+          admin@pooj.net       18510691667   张佳怡   Z*********8
+ 
+
+          登录 https://work.weixin.qq.com/   用 405710664的个人微信登录进行账号配置管理。
+
+
+
+   (3) 空间平台
+
+        https://vercel.com/                      405710664@qq.com         Z*********8      
+        https://www.netlify.com/             zhanglixin888@gmail.com                    二次密码确认：  设备名称 pooj.net    (google 权限认证软件)
