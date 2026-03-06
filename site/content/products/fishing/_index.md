@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fishing Tackle Guide
 type: products
-image: /img/fishing-hero.jpg # 替换成一张酷炫的钓鱼背景图
+image: /img/product/fishing/fishing-hero.jpg # 替换成一张酷炫的钓鱼背景图
 intro:
   heading: Explore the World of Angling
   description: >-
