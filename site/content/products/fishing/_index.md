@@ -8,19 +8,19 @@ intro:
     From high-performance reels to precision-engineered lures, our comprehensive 
     guides cover everything you need to know about modern fishing gear.
   blurbs:
-    - image: /img/rods-reels.svg # 建议用图标
+    - image: /img/fishing/rods-reels.svg # 建议用图标
       text: >
         **Rods & Reels (Core Hardware)**: In-depth analysis of Spinning and Baitcasting 
         setups. Learn why gear ratios and rod power matter for your target species.
-    - image: /img/lures.svg
+    - image: /img/fishing/lures.svg
       text: >
         **Lures & Baits (The Art of Deception)**: Explore soft plastics, crankbaits, 
         and topwater strategies that trigger aggressive strikes.
-    - image: /img/terminal-tackle.svg
+    - image: /img/fishing/terminal-tackle.svg
       text: >
         **Terminal Tackle (The Essentials)**: The small things that make a big difference. 
         Guides on hooks, advanced line selection, and sinker configurations.
-    - image: /img/apparel.svg
+    - image: /img/fishing/apparel.svg
       text: >
         **Apparel & Gear**: Stay protected and organized with performance hoodies, 
         polarized optics, and smart tackle storage solutions.
